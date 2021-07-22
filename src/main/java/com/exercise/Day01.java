@@ -11,4 +11,11 @@ public class Day01 extends TestCase {
     }
 
 
+    public void testtwo(){
+        String text = "git提交测试";
+        System.out.println(text);
+
+    }
+
+
 }
